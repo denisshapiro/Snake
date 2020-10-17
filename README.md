@@ -1,9 +1,7 @@
 # Snake
 
-* Denis Shapiro
-* 20784758 odshapir
-* openjdk version "11.0.8" 2020-07-14
-* Windows 10 (Dell XPS 13 9370)
+
+openjdk version "11.0.8" 2020-07-14
 
 ## Controls
 * Arrow keys control direction
